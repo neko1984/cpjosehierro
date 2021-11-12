@@ -1,2 +1,1 @@
-$("[style]").removeAttr("style");
-$("#user-css").remove();
+console.log("Estamos en el servidor");

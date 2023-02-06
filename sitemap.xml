@@ -11,6 +11,11 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
+    <loc>http://www.educa.madrid.org/cp.josehierro.parla/el-centro/consejo-escolar/</loc>
+    <lastmod>2023-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://site.educa.madrid.org/cp.josehierro.parla/ensenanzas</loc>
     <lastmod>2023-06-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -21,7 +26,57 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
+    <loc>https://site.educa.madrid.org/cp.josehierro.parla/servicios/ruta-escolar/</loc>
+    <lastmod>2023-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://site.educa.madrid.org/cp.josehierro.parla/servicios/comedor-escolar/</loc>
+    <lastmod>2023-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://site.educa.madrid.org/cp.josehierro.parla/servicios/desayuno-y-entrada-pre-lectiva/</loc>
+    <lastmod>2023-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://site.educa.madrid.org/cp.josehierro.parla/servicios/instalaciones/</loc>
+    <lastmod>2023-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://site.educa.madrid.org/cp.josehierro.parla/servicios/ampa/</loc>
+    <lastmod>2023-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://site.educa.madrid.org/cp.josehierro.parla/servicios/enfermeria/</loc>
+    <lastmod>2023-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://site.educa.madrid.org/cp.josehierro.parla/secretaria</loc>
+    <lastmod>2023-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+   <url>
+    <loc>https://site.educa.madrid.org/cp.josehierro.parla/secretaria/becas-material-didactico-infantil/</loc>
+    <lastmod>2023-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+   <url>
+    <loc>https://site.educa.madrid.org/cp.josehierro.parla/secretaria/becas-comedor/</loc>
+    <lastmod>2023-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+   <url>
+    <loc>https://site.educa.madrid.org/cp.josehierro.parla/secretaria/prestamo-de-libros-accede/</loc>
+    <lastmod>2023-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+   <url>
+    <loc>https://site.educa.madrid.org/cp.josehierro.parla/secretaria/roble-comunicacion-con-las-familias/</loc>
     <lastmod>2023-06-02</lastmod>
     <changefreq>weekly</changefreq>
   </url>
@@ -31,8 +86,24 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
+    <loc>https://site.educa.madrid.org/cp.josehierro.parla/admisiones/proceso-de-admision/</loc>
+    <lastmod>2023-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://site.educa.madrid.org/cp.josehierro.parla/admisiones/proceso-de-matriculacion/</loc>
+    <lastmod>2023-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>http://www.educa.madrid.org/cp.josehierro.parla/menu/</loc>
     <lastmod>2023-06-02</lastmod>
     <changefreq>weekly</changefreq>
   </url>
+  <url>
+    <loc>http://www.educa.madrid.org/cp.josehierro.parla/consejo-escolar/</loc>
+    <lastmod>2023-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+
 </urlset>
